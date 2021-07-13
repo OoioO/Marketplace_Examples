@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  app1:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-07-13T14:45:39.394118194+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 4e256347d0724817b94fea4ef41731c0888e97f2d2c8815c05b2f82f8ee5ff26
+    name: app1
+    type: application
+    urls:
+    - https://ooioo.github.io/Marketplace_Examples/app1-0.1.0.tgz
+    version: 0.1.0
+  app2:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-07-13T14:45:39.394478615+02:00"
+    description: A Helm chart for Kubernetes
+    digest: dba68b032f1c0a8f4e889cb27f485b7dacd7dd70c23d17d7c3bef8fc8b60b1fa
+    name: app2
+    type: application
+    urls:
+    - https://ooioo.github.io/Marketplace_Examples/app2-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-07-13T14:45:39.393597528+02:00"
